@@ -1,0 +1,502 @@
+@media (min-width: 1360px) and (max-width: 2500px) {
+	.main_title {
+		background-size:cover;
+	}
+}
+@media (min-width: 280px) and (max-width: 1120px) {
+	.video_block {
+		width:226px;
+		text-align:center;
+		display:block;
+	}
+	.video_block p {
+		margin-bottom:10px;
+		padding:0;
+	}
+	.video_block p:after,
+	.input_output .col:first-child:after {
+		display:none;
+	}
+	.earn_money ul,
+	.table_list,
+	.project_statistics ul {
+		display:block;
+	}
+	.project_statistics ul li,
+	.earn_money ul li,
+	.table_list li {
+		margin:0 10px 15px;
+	}
+	.news_page ul,
+	.input_output.row_flex {
+		display:block;
+	}
+	.news_page ul li {
+		margin:0 20px 20px;
+	}
+	.input_output .col {
+		max-width:550px;
+		width:100% !important;
+		margin:0 auto 10px !important;
+		padding:0;
+	}
+	.exchange_coins {
+		max-width:700px;
+		margin:0 auto;
+	}
+}
+@media (min-width: 280px) and (max-width: 1070px) {
+	.scroll_wrapp {
+		width:50%;
+	}
+	.popup_form {
+		width:48%;
+	}
+	.row_games.row_flex {
+		display:block;
+	}
+	.games {
+		width:auto;
+		margin-bottom:15px;
+	}
+	.personal_stats {
+		width:270px;
+		margin:0 auto;
+		padding:0;
+	}
+	.personal_stats td:first-child {
+		width:76%;
+	}
+	.personal_stats:after {
+		display:none;
+	}
+	.item_dialogs .top_row.row_flex {
+		display:block;
+	}
+	.item_dialogs .col {
+		width:100%;
+		margin-bottom:15px;
+	}
+	.textarea .row_flex ul {
+		padding-top:5px;
+	}
+	.textarea .row_flex ul li {
+		margin:0 5px 5px;
+	}
+}
+@media (min-width: 280px) and (max-width: 1020px) {
+	.title_popup.row_flex {
+		text-align:center;
+		padding:15px 10px;
+		display:block;
+	}
+	.popup_account {
+		margin:0 auto 10px;
+	}
+	.title_popup ul li {
+		margin:0 0 10px;
+	}
+	.table_popup {
+		width:1020px;
+	}
+	.your_farm_images .row > .row_flex,
+	.select_color .row_flex {
+		display:block;
+	}
+	.landing {
+		margin:0 auto 10px;
+	}
+	.col_farm {
+		text-align:center;
+		margin:0 auto;
+	}
+	.color {
+		margin:0 auto 10px;
+	}
+	.select_color .row {
+		max-width:none;
+	}
+	.grocery_table {
+		width:1000px;
+	}
+}
+@media (min-width: 280px) and (max-width: 980px) {
+	.main_statistics .row_flex {
+		text-align:center;
+		padding-bottom:15px;
+		display:block;
+	}
+	.tabs {
+		padding-bottom:10px;
+	}
+	.tabs li {
+		margin:0 10px 5px;
+	}
+	.table_box table {
+		width:980px;
+	}
+	.scroll_form.row_flex,
+	.account_title.row_flex,
+	.row_referrals.row_flex,
+	.product_row.row_flex {
+		display:block;
+	}
+	.scroll_wrapp {
+		width:100%;
+		margin-bottom:10px;
+	}
+	.popup_form {
+		width:100%;
+	}
+	.account_list {
+		width:100%;
+		margin:0;
+		padding-bottom:10px;
+	}
+	.account_title .popup_account,
+	.my_referrals,
+	.info_referrals,
+	.right_col {
+		margin:0 auto;
+	}
+	.my_referrals {
+		padding-right:0;
+	}
+	.my_referrals:after,
+	.account_settings .col:after {
+		display:none;
+	}
+	.my_referrals ul {
+		width:100%;
+	}
+	.left_col {
+		margin:0 auto 10px;
+	}
+	.info_list li {
+		width:230px;
+	}
+	.account_settings.row_flex {
+		text-align:center;
+		padding:0;
+		display:block;
+	}
+	.account_settings .col {
+		max-width:380px !important;
+		text-align:left;
+		margin:0 10px 10px;
+		padding:0;
+		vertical-align:top;
+		display:inline-block;
+	}
+	.account_settings form {
+		max-width:none;
+	}
+}
+@media (min-width: 280px) and (max-width: 780px) {
+	.select_color ul {
+		text-align:center;
+		display:block;
+	}
+	.select_color ul li {
+		margin:0 5px 10px;
+	}
+	.select_color .align_dialogs {
+		text-align:center;
+	}
+}
+@media (min-width: 280px) and (max-width: 725px) {
+	.account_list,
+	.games_list,
+	.col_farm {
+		display:block;
+	}
+	.account_list li,
+	.games_list li {
+		margin:0 5px 10px;
+	}
+	.col_farm ul {
+		max-width:none;
+		width:auto;
+		margin:0 auto 10px;
+		display:table;
+	}
+}
+@media (min-width: 280px) and (max-width: 1015px) {
+	.item_dialogs .textarea .row_flex {
+		height:auto;
+		text-align:center;
+		padding-bottom:5px;
+		display:block;
+	}
+}
+@media (min-width: 280px) and (max-width: 768px) {
+	.directory.row_flex {
+		display:block;
+	}
+	.directory_text {
+		width:auto;
+		margin:0 0 10px;
+	}
+	.nav {
+		margin:0 auto;
+	}
+}
+@media (min-width: 280px) and (max-width: 680px) {
+	header,
+	.exchange_coins .row_flex {
+		text-align:center;
+		display:block;
+	}
+	header div {
+		max-width:none;
+		margin-bottom:10px;
+	}
+	h1 {
+		margin-top:30px;
+	}
+	.main_description.row_flex {
+		display:block;
+	} 
+	.main_description .text,
+	.last_dialogs {
+		max-width:none;
+		margin:0 auto 10px;
+	}
+	.video_block {
+		margin:0 auto;
+	}
+	.head_row.row_flex,
+	.warehouse_contents > div {
+		display:block;
+	}
+	.head_row a {
+		margin:5px 5px 0;
+		display:inline-block;
+	}
+	.warehouse_contents > div {
+		text-align:center;
+	}
+	.row_dialogs.row_flex {
+		display:block;
+	}
+	.item_dialogs {
+		max-width:none;
+		margin:0 auto;
+	}
+	.last_dialogs:after {
+		display:none;
+	}
+	.last_dialogs_list {
+		width:auto;
+	}
+	.process_maturation ul li .row .yellow_strip {
+		width:44%;
+	}
+	.process_maturation ul li p,
+	.process_maturation ul li p span {
+		font-size:14px;
+		padding-right:5px;
+	}
+	.exchange_coins .row_flex div {
+		text-align:left;
+		margin-bottom:10px;
+		display:inline-block;
+	}
+	.exchange_coins .row_flex div+div+div label {
+		display:none;
+	}
+	.exchange_coins .row_flex div+div+div {
+		margin:0 auto;
+		display:block;
+	}
+	.recent_operations .table_history {
+		width:650px;
+	}
+}
+@media (min-width: 280px) and (max-width: 620px) {
+	.earn_money ul li, 
+	.table_list li {
+		margin:0 0 15px;
+	}
+	footer {
+		text-align:center;
+	}
+	footer .row_flex,
+	.popup_form.row_flex,
+	.games_knb {
+		display:block;
+	} 
+	footer p {
+		margin-bottom:10px;
+	}
+	footer ul li {
+		margin:0 5px 5px;
+	}
+	.popup_form .col,
+	.popup_form .col+.col {
+		width:auto;
+		margin:0 auto 10px;
+		padding:0;
+		display:table;
+	}
+	.popup_form .col:before,
+	.row_referrals:after {
+		display:none;
+	}
+	.games_knb > li {
+		margin:0 5px 10px;
+	}
+	.product_table table {
+		width:650px;
+	}
+}
+@media (min-width: 280px) and (max-width: 570px) {
+	.input_output .row_flex,
+	.payment ul {
+		display:block;
+	}
+	.input_output .row_flex div {
+		margin:0 auto 10px;
+	}
+	.payment ul li {
+		margin:0 5px 10px;
+	}
+}
+@media (min-width: 280px) and (max-width: 520px) {
+	.button_row {
+		bottom:10px;
+	}
+	.button_row div,
+	.products_exchange .head.row_flex {
+		display:block;
+	}
+	.button_row a {
+		margin:10px 0;
+	}
+	.products_exchange .head {
+		text-align:center;
+	}
+}
+@media (min-width: 280px) and (max-width: 500px) {
+	.main_title {
+		padding-bottom:90px;
+	}
+	header div,
+	.info_referrals .head.row_flex,
+	.account_referrals.row_flex {
+		display:block;
+	}
+	header .logo,
+	.account_referrals .account {
+		margin:0 auto 10px;
+	}
+	.main_title h1 {
+		font-size:10.5vw;
+	}
+	.main_title strong {
+		font-size:5vw;
+	}
+	.news_page ul li {
+		margin:0 0 15px;
+	}
+	.info_referrals .head.row_flex {
+		text-align:center;
+	}
+	.account_referrals .text {
+		max-width:none;
+		width:250px;
+		margin:0 auto;
+	}
+}
+@media (min-width: 280px) and (max-width: 480px) {
+	.create_game ul,
+	.contents_list,
+	.wheat .row_flex,
+	.input_output .row {
+		display:block;
+	}
+	.create_game ul li,
+	.contents_list li {
+		margin:0 5px 10px;
+	}
+	.info_referrals > ul > li {
+		width:200px;
+	}
+	.invited_participants ul li {
+		padding-right:10px;
+	}
+	.invited_participants ul li .icon {
+		margin-right:10px;
+	}
+	.wheat .col:after {
+		display:none;
+	}
+	.wheat .col,
+	.wheat .col+.col {
+		width:200px;
+		margin:0 auto 10px;
+	}
+	.wheat .col+.col {
+		margin-bottom:0;
+	}
+	.item_dialogs_list > li > ul {
+		text-align:center;
+	}
+	.item_dialogs_list > li > ul > li {
+		margin:0 5px;
+	}
+	.pin_code .row_flex {
+		text-align:center;
+		margin-bottom:5px;
+		display:block;
+	}
+	.pin_code .row_flex div {
+		width:100%;
+		margin:0 auto 10px;
+	}
+	.pin_code .button a {
+		margin:5px 0;
+	}
+	.pagin {
+		padding-top:70px;
+	}
+	.button_right_col.row_flex {
+		text-align:center;
+		display:block;
+	}
+	.button_right_col > a {
+		margin-bottom:10px;
+	}
+	.col_farm ul li {
+		width:150px;
+		line-height:35px;
+	}
+	.col_farm ul li:after {
+		display:none;
+	}
+	.process_maturation ul li p {
+		display:none;
+	}
+	.input_output .row {
+		text-align:center;
+	}
+	.input_output .row p {
+		width:100%;
+		margin-bottom:10px;
+	}
+	.account_settings .col {
+		margin:0 0 20px;
+	}
+}
+@media (min-width: 280px) and (max-width: 380px) {
+	.right_col form {
+		max-width:none;
+		width:205px;
+		height:auto;
+		margin:0 auto 15px;
+	}
+	.right_col form label {
+		text-align:center;
+		display:block;
+	}
+}
